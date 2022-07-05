@@ -1,0 +1,202 @@
+DESC:desc what are the ailment symptoms of bacterial leaf spot?
+DESC:desc What are the sickness signs and symptoms of baterial fuit spot?
+ENTITY:other what is the predominant source of inoculum in contaminated cuttings?
+NUMERIC:temp what is the optimum temperature for the initiaion of fruit spot in pomegranate?
+DESC:desc what is the beneficial climate situation for the inititation of leaf spot in pomegranate?
+NUMERIC:temp what is the favourable temperature for the initiation of leaf spot in pomegranate?
+ENTITY:dis which disease is the most frequent in pomegranate?
+DESC:desc what are the disease signs of anthracnose?
+ENTITY:other what is the source of foremost spread of leaf spot in pomegranate?
+DESC:desc how can i forestall leaf spot from spreading?
+DESC:desc how can i forestall the fruit spot from spreading?
+DESC:desc what are the favourable prerequisites for anthracnose?
+DESC:desc what are the sickness symptoms of Fusarium wilt?
+DESC:desc what are the signs and symptoms of Alternaria fruit spot?
+DESC:desc what are the beneficial weather condition for bacterial blight?
+DESC:reason what are the reasons for bacterial blight?
+DESC:desc what is the beneficial weather for the unfold of anthrecnose?
+DESC:desc what are the signs of cercospora fruit spot?
+DESC:desc what are the signs of cercospora leaf spot?
+DESC:desc What are the signs and symptoms of stem-canker?
+ENTITY:other What is Bacterial blight also recognized as?
+DESC:reason What reasons anthracnose in pomegranate?
+DESC:desc What causes Fusarium Wilt in pomegranate?
+DESC:desc When do the lesions on the pomegranate start appearing?
+DESC:reason What reasons extreme defoliation in pomegranate?
+ENTITY:other What causes Fruit rot in pomegranate?
+ENTITY:other What causes the stem tip die returned in pomegranate?
+ENTITY:other Leaf and fruit spot in pomegranate are brought about through what?
+ENTITY:dis Dwiroopa punicae is related to which disease in pomegranate?
+DESC:desc What causes stem-canker and shoot-blight in pomegranate?
+DESC:desc What are the signs of Dwiroopa punicae?
+DESC:desc what are the measures to be taken to forestall bacterial blight?
+DESC:desc what are the measure to be taken to forestall anthracnose?
+DESC:def what is Anthracnose?
+DESC:def What is Bacterial blight?
+DESC:def What is cercospora fruit spot?
+ENTITY:other What is Bacterial blight also recognized as?
+DESC:reason What reasons anthracnose in pomegranate?
+DESC:desc What causes Fusarium Wilt in pomegranate?
+DESC:desc When do the lesions on the pomegranate start appearing?
+DESC:reason What reasons extreme defoliation in pomegranate?
+ENTITY:other What causes Fruit rot in pomegranate?
+ENTITY:other What causes the stem tip die returned in pomegranate?
+ENTITY:other Leaf and fruit spot in pomegranate are brought about through what?
+ENTITY:dis Dwiroopa punicae is related to which disease in pomegranate?
+DESC:desc What causes stem-canker and shoot-blight in pomegranate?
+DESC:desc What are the signs of Dwiroopa punicae?
+DESC:desc What causes bacterial leaf and fruit spot?
+DESC:desc what are the disease symptoms of bacterial leaf spot?
+DESC:desc What are the disease symptoms of baterial fuit spot?
+ENTITY:other what is the primary source of inoculum in infected cuttings?
+NUMERIC:temp what is the favourable temperature for the initiaion of fruit spot in pomegranate?
+DESC:desc what is the favourable weather condition for the inititation of leaf spot in pomegranate?
+NUMERIC:temp what is the favourable temperature for the initiation of leaf spot in pomegranate?
+ENTITY:dis which disease is the most common in pomegranate?
+ENTITY:other what is the primary source of inoculum?
+ENTITY:other what is the secondary source of inoculum?
+DESC:desc what are the disease symptoms of anthracnose?
+ENTITY:other what is the source of primary spread of leaf spot in pomegranate?
+ENTITY:other what is the source of secondary spread of leaf spot in pomegranate?
+DESC:desc how can i prevent leaf spot from spreading?
+DESC:desc how can i prevent the fruit spot from spreading?
+DESC:desc what are the favourable conditions for anthracnose?
+DESC:desc what are the disease symptoms of Fusarium wilt?
+DESC:desc what are the symptoms of Alternaria fruit spot?
+DESC:desc what are the favourable weather condition for bacterial blight?
+DESC:desc what causes bacterial blight?
+DESC:desc what is the favourable weather for the spread of anthrecnose?
+DESC:desc what are the symptoms of cercospora fruit spot?
+DESC:desc what are the symptoms of cercospora leaf spot?
+DESC:desc what are the measures to be taken to prevent bacterial blight?
+DESC:desc what are the measure to be taken to prevent anthracnose?
+DESC:def what is Anthracnose?
+DESC:def What is Bacterial blight?
+DESC:def what is cercospora fruit spot?
+ENTITY:term what is Bacterial blight also known as?
+DESC:desc what causes anthracnose in pomegranate?
+DESC:desc what causes Fusarium Wilt in pomegranate?
+DESC:desc when do the lesions on the pomegranate start appearing?
+DESC:desc what causes severe defoliation in pomegranate?
+DESC:desc what causes Fruit rot in pomegranate?
+DESC:desc what causes the stem tip die back in pomegranate?
+ENTITY:other Leaf and fruit spot in pomegranate are caused by what?
+ENTITY:dis Dwiroopa punicae is associated to which disease in pomegranate?
+DESC:desc what causes stem-canker and shoot-blight in pomegranate?
+DESC:desc what are the symptoms of Dwiroopa punicae?
+DESC:desc what are the symptoms of stem-canker?
+DESC:desc what are the symptoms of shoot-blight?
+ENTITY:dis which disease of pomegranate results in eighty percent fruit loss in florida?
+DESC:desc what is mummification?
+DESC:desc what is the importance of orchard sanitation in disease management?
+DESC:def what is orchard sanitation?
+DESC:desc what are the economical and sustainable practices in pomegranate management?
+DESC:desc what are the common issues faced while growing pomegranate?
+DESC:def what is Alternaria fruit rot also called as?
+DESC:desc when does alternaria fruit rot occur in pomegranate?
+DESC:def what is aspergillus fruit rot?
+DESC:def what is Botrytis?
+ENTITY:term what is Botrytis also known as?
+DESC:desc what are the symptoms of gray mold in pomegranate?
+DESC:desc how can we prevent the spread of cercospora in pomegranate?
+ENTITY:term what is pomegranate fruit rot disease known as?
+ENTITY:dis which is the disease that affects the production of pomegranate world wide?
+ENTITY:other where do alternata spores germinate in pomegranate?
+ENTITY:substance what is the chemical used for preventing bacterial bight?
+ENTITY:substance what is the chemical ised for controlling the spread of bacterial blight?
+ENTITY:substance what is the chemical used for prevening anthracnose?
+ENTITY:substance what is the chemical used for controlling the spread of anthracnose?
+ENTITY:substance what is the chemical used for preventing fruit rot?
+ENTITY:substance which chemical is used for the treatment of gray mold?
+ENTITY:substance which chemical is used for the treatment of alternaria fruit rot?
+DESC:desc what is the favourable condition to prevent bacterial blight?
+DESC:desc what is the favourable condition to prevent fruit rot?
+DESC:desc what is the favourable condition to prevent stem-canker?
+DESC:desc what is the favourable condition to prevent aspergillus fruit rot?
+DESC:desc what are the cultural practices to be followed to prevent leaf spot?
+DESC:desc what are the cultural practices to be followed to prevent fruit spot?
+DESC:desc what are the cultural practices to be followed to prevent aspergillus fruit spot?
+DESC:desc what are the cultural practices to be followed to prevent fruit rot?
+DESC:desc what are the cultural practices to be followed to prevent gray mold?
+DESC:desc what are the cultural practices to be followed to prevent stem-canker?
+DESC:desc what are the cultural practices to be followed to prevent alernaria fruit rot?
+DESC:def what is sun scald?
+DESC:desc What is the nature of damage caused by sun scald in pomegranate?
+DESC:desc what are the causes of sun scald in pomegranate?
+DESC:desc what is the cause of internal break down of arils in pomegranate?
+DESC:desc what causes leptoglossus mambranaceus in pomegranate?
+DESC:desc what are the damages caused by pomegranate fruit borer?
+DESC:def what is fruit rot?
+NUMERIC:Date what is the peak harvest time for pomegranate in India?
+DESC:desc why do dark spots appear on pomegranate?
+DESC:desc how can i control the spread of fruit rot?
+DESC:desc how can i control the spread of alternaria fruit rot?
+DESC:desc what is the use of mummification?
+DESC:def what is pomegranate scab disease?
+DESC:desc what causes pomegranate scab?
+DESC:desc what are the symptoms of pomegranate scab?
+DESC:desc what pests or diseases affect pomegranate?
+DESC:desc which are the natural enemies of pomegranate?
+DESC:def what is root sampling?
+DESC:def what is fruit sampling?
+DESC:desc what are the sampling patterns to be followed while growing pomegranate?
+DESC:def what is leaf sampling?
+ENTITY:other what is a pomegranate fruit borer also known as?
+ENTITY:other what is the source of primary spread of inoculum in Fusarium Wilt?
+ENTITY:other what is the favourable temperature to store pomegranate?
+DESC:desc what are the safety measure to be followed during pesticide usage?
+ENTITY:substance which fertilizer is best for pomegranate?
+DESC:desc How often should a pomegranate tree be watered?
+DESC:desc what are the symptoms of pomegranate Anthracnose?
+ENTITY:other Pomegranate anthracnose causal organism?
+ENTITY:other which fungicide is used for anthracnose?,one term answer,ENTITY,other
+DESC:desc how does verticillium wilt spread?
+DESC:desc how do you treat fusarium wilt?
+DESC:desc what are the symptoms of fusarium wilt?
+LOCATION:country Pomegranate is an original native of?
+ENTITY:term What is alternaria fruit rot also known as?
+DESC:desc when do aspergillus rot infections begin?
+DESC:desc which are the post harvest diseases of pomegranate?
+ENTITY:other Pomegranate is a member of which family?
+ENTITY:dis the main disease of pomegranate in karnataka?
+ENTITY:other What causes bacterial leaf and fruit spot?
+DESC:desc what are the disease symptoms of bacterial leaf spot?
+DESC:desc What are the disease symptoms of baterial fuit spot?
+ENTITY:other what is the primary source of inoculum in infected cuttings?
+NUMERIC:temp what is the favourable temperature for the initiaion of fruit spot in pomegranate?
+DESC:desc what is the favourable weather condition for the inititation of leaf spot in pomegranate?
+NUMERIC:temp what is the favourable temperature for the initiation of leaf spot in pomegranate?
+ENTITY:dis which disease is the most common in pomegranate?
+DESC:desc what are the symptoms of gray mold in pomegranate?
+DESC:desc how can we prevent the spread of cercospora in pomegranate?
+ENTITY:term what is pomegranate fruit rot disease known as?
+ENTITY:dis which is the disease that affects the production of pomegranate world wide?
+LOCATION:place where do alternata spores germinate in pomegranate?
+ENTITY:substance what is the chemical used for preventing bacterial bight?
+ENTITY:substance what is the chemical ised for controlling the spread of bacterial blight?
+ENTITY:substance what is the chemical used for prevening anthracnose?
+ENTITY:substance what is the chemical used for controlling the spread of anthracnose?
+ENTITY:substance what is the chemical used for preventing fruit rot?
+ENTITY:substance which chemical is used for the treatment of gray mold?
+ENTITY:substance which chemical is used for the treatment of alternaria fruit rot?
+DESC:desc what is the favourable condition to prevent bacterial blight?
+DESC:desc what is the favourable condition to prevent fruit rot?
+DESC:desc what is the favourable condition to prevent stem-canker?
+DESC:desc what is the favourable condition to prevent aspergillus fruit rot?
+DESC:desc what are the cultural practices to be followed to prevent leaf spot?
+DESC:desc what are the cultural practices to be followed to prevent fruit spot?
+DESC:desc what are the cultural practices to be followed to prevent aspergillus fruit spot?
+DESC:desc what are the cultural practices to be followed to prevent fruit rot?
+DESC:desc what are the cultural practices to be followed to prevent gray mold?
+DESC:desc what are the cultural practices to be followed to prevent stem-canker?
+DESC:desc what are the cultural practices to be followed to prevent alernaria fruit rot?
+NUMERIC:temp what is the favourable temperature to store pomegranate?
+DESC:desc what are the safety measure to be followed during pesticide usage?
+DESC:desc what are the sampling patterns to be followed while growing pomegranate?
+DESC:desc what is leaf sampling?
+ENTITY:other what is a pomegranate fruit borer also known as?
+DESC:def what is fruit rot?
+DESC:reason why do pomegranate leaves curl?
+DESC:reason why do dark colored spots appear on pomegranate?
+ENTITY:other Bacterial blight is caused by what?
+NUMERIC:temp what is the ideal temperature for the spread of bacterial blight?

@@ -1,0 +1,15 @@
+DESC:desc measures to be taken to prevent the spread of bacterial blight?
+DESC:def what is field sanitation?
+DESC:def What is a lesion?
+DESC:reason why do dark spots appear on pomegranate?
+ENTITY:other Another name for Dwiroopa punicae?
+DESC:reason causes of anthracnose in pomegranate?
+DESC:desc When do the yellow spots start appearing on the leaf?
+DESC:reason Why does pomegranate undergo defoliation?
+ENTITY:other Which natural enemy causes Fruit rot in pomegranate?
+ENTITY:other What causes the stem tip die returned in pomegranate?
+ENTITY:other Leaf and fruit spot in pomegranate are brought about through what?
+DESC:desc What happens during stem-canker?
+DESC:desc What are the signs of Wilt?
+DESC:reason Why do yellow spots appear on leaves?
+ENTITY:other Anthracnose leaf spot is caused by what?
